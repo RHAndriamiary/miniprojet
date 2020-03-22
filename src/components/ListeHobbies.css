@@ -1,0 +1,16 @@
+.Abstract{
+    text-align: justify;
+    background: white;
+    padding: 2em;
+}
+
+.InfoGeneral{
+    text-align: justify;
+    background: rgb(224, 224, 224);
+    padding-top: 2em;
+    padding-bottom: 3em
+}
+
+.Informations{
+    text-decoration-color: maroon;
+}
